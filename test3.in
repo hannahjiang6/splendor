@@ -1,0 +1,24 @@
+p2 blue
+p3 white red green
+p2 pink
+p3 red white blue
+p3 white red green
+p3 red white blue
+b m 1
+b m 1
+r m 4
+p3 green pink blue
+b m 3
+p3 pink red white
+green
+red
+p2 green
+b m 3
+p3 white red green
+p2 blue
+b m 3
+b m 3
+p3 red blue white
+p2 green
+br 1
+q
